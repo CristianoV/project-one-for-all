@@ -173,7 +173,7 @@ VALUES
 ('Time Fireworks', 152, 2),
 ('Magic Circus', 105, 3),
 ('Honey, So Do I', 207, 3),
-("Sweetie, Let's Go Wild", 200, 1),
+("Sweetie, Let's Go Wild", 139, 1),
 ('She Knows', 244, 3),
 ('Fantasy For Me', 100, 4),
 ('Celebration Of More', 146, 4),
@@ -211,7 +211,7 @@ VALUES
 INSERT INTO SpotifyClone.historico (cancoes_id, data_reproducao, usuario_id)
 VALUES
 (36,	"2020-02-28 10:45:55",	1),
-(22,	"2020-05-02 05:30:35",	1),
+(25,	"2020-05-02 05:30:35",	1),
 (23,	"2020-03-06 11:22:33",	1),
 (14,	"2020-08-05 08:05:17",	1),
 (15,	"2020-09-14 16:32:22",	1),
